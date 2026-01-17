@@ -1,0 +1,216 @@
+{
+  "categories": {
+    "product-management": {
+      "name": "Product Management",
+      "description": "제품 관리, 제품 개발, 제품 리더십",
+      "topics": [
+        "product-management",
+        "product-development",
+        "product-leadership"
+      ],
+      "key_guests": [
+        "Brian Chesky",
+        "Julie Zhuo",
+        "Shreyas Doshi",
+        "Marty Cagan",
+        "Gibson Biddle"
+      ]
+    },
+    "product-strategy": {
+      "name": "Product Strategy",
+      "description": "제품 전략, 우선순위 결정, 의사결정",
+      "topics": [
+        "product-strategy",
+        "prioritization",
+        "decision-making",
+        "strategy",
+        "okrs"
+      ],
+      "key_guests": [
+        "Shreyas Doshi",
+        "Gibson Biddle",
+        "Shishir Mehrotra",
+        "Christina Wodtke",
+        "Richard Rumelt"
+      ]
+    },
+    "leadership": {
+      "name": "Leadership",
+      "description": "리더십, 관리, 임원 코칭, 피드백",
+      "topics": [
+        "leadership",
+        "management",
+        "executive-coaching",
+        "feedback",
+        "organizational-design"
+      ],
+      "key_guests": [
+        "Matt Mochary",
+        "Kim Scott",
+        "Ben Horowitz",
+        "Camille Fournier",
+        "Julie Zhuo"
+      ]
+    },
+    "growth": {
+      "name": "Growth Strategy",
+      "description": "성장 전략, 제품 주도 성장, 리텐션, 실험",
+      "topics": [
+        "growth-strategy",
+        "product-led-growth",
+        "retention",
+        "experimentation",
+        "ab-testing",
+        "analytics"
+      ],
+      "key_guests": [
+        "Brian Balfour",
+        "Casey Winters",
+        "Elena Verna",
+        "Sean Ellis",
+        "Bangaly Kaba"
+      ]
+    },
+    "engineering": {
+      "name": "Engineering",
+      "description": "엔지니어링, 기술 리더십",
+      "topics": [
+        "engineering"
+      ],
+      "key_guests": [
+        "Will Larson",
+        "Camille Fournier",
+        "Nicole Forsgren",
+        "Gergely Orosz"
+      ]
+    },
+    "ai-ml": {
+      "name": "AI & Machine Learning",
+      "description": "인공지능, 머신러닝, ChatGPT, OpenAI",
+      "topics": [
+        "ai",
+        "machine-learning",
+        "chatgpt",
+        "openai"
+      ],
+      "key_guests": [
+        "Chip Huyen",
+        "Logan Kilpatrick",
+        "Fei-Fei Li",
+        "Shreya Shankar",
+        "Hamel Husain"
+      ]
+    },
+    "career": {
+      "name": "Career Development",
+      "description": "커리어 개발, 커리어 성장, 멘토십",
+      "topics": [
+        "career-development",
+        "career-growth",
+        "mentorship",
+        "skill-building"
+      ],
+      "key_guests": [
+        "Gergely Orosz",
+        "Camille Fournier",
+        "Jackie Bavaro",
+        "Lenny Rachitsky",
+        "Will Larson"
+      ]
+    },
+    "culture": {
+      "name": "Culture & Team Building",
+      "description": "회사 문화, 팀 빌딩, 원격 근무, 채용",
+      "topics": [
+        "company-culture",
+        "team-building",
+        "remote-work",
+        "hiring",
+        "recruiting",
+        "startup-culture"
+      ],
+      "key_guests": [
+        "Stewart Butterfield",
+        "Molly Graham",
+        "Claire Hughes Johnson",
+        "Tobi Lutke",
+        "Brian Chesky"
+      ]
+    },
+    "sales": {
+      "name": "Sales",
+      "description": "영업, 엔터프라이즈 세일즈",
+      "topics": [
+        "sales",
+        "enterprise-sales"
+      ],
+      "key_guests": [
+        "Pete Kazanjy",
+        "Jason Lemkin",
+        "April Dunford"
+      ]
+    },
+    "marketing": {
+      "name": "Marketing",
+      "description": "마케팅, 브랜드 빌딩, 스토리텔링, 포지셔닝",
+      "topics": [
+        "marketing",
+        "brand-building",
+        "branding",
+        "storytelling",
+        "personal-branding",
+        "media-relations",
+        "word-of-mouth"
+      ],
+      "key_guests": [
+        "April Dunford",
+        "Seth Godin",
+        "Lulu Cheng Meservey",
+        "Arielle Jackson",
+        "Andy Raskin"
+      ]
+    },
+    "entrepreneurship": {
+      "name": "Entrepreneurship",
+      "description": "기업가정신, 스타트업 성장, 파운더 모드",
+      "topics": [
+        "entrepreneurship",
+        "startup-growth",
+        "founder-mode",
+        "bootstrapping",
+        "venture-capital",
+        "business-strategy"
+      ],
+      "key_guests": [
+        "Jason Fried",
+        "Drew Houston",
+        "Tobi Lutke",
+        "Marc Benioff",
+        "Brian Chesky"
+      ]
+    },
+    "personal-skills": {
+      "name": "Personal Development",
+      "description": "개인 개발, 생산성, 커뮤니케이션, 스트레스 관리",
+      "topics": [
+        "personal-development",
+        "productivity",
+        "communication",
+        "time-management",
+        "work-life-balance",
+        "mental-health",
+        "stress-management",
+        "anxiety-management",
+        "focus",
+        "personal-transformation"
+      ],
+      "key_guests": [
+        "Matt Abrahams",
+        "Graham Weaver",
+        "Jerry Colonna",
+        "Nir Eyal",
+        "Cal Newport"
+      ]
+    }
+  }
+}
