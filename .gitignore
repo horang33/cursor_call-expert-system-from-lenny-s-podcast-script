@@ -1,22 +1,36 @@
-# OS 파일
+# === macOS ===
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# === Windows ===
 Thumbs.db
 desktop.ini
+$RECYCLE.BIN/
 
-# 에디터 설정
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+
+# === Node.js ===
+node_modules/
+
+# === 에디터/IDE ===
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# 로그 파일
+# === 로그 파일 ===
 *.log
 
-# 임시 파일
+# === 임시 파일 ===
 *.tmp
 *.bak
 
-# 압축 파일
+# === 압축 파일 ===
 *.zip
 *.tar.gz
